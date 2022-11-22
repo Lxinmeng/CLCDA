@@ -1,0 +1,13 @@
+{
+  "net_paths": [
+    "c-seq"],
+  "net_dims": [913],
+  "net_nums": 1,
+  "hidden_dim": [700, 500, 913],
+  "batch_size": 256,
+  "lr": [0.1, 0.05, 0.05],
+  "momentum": 0.5,
+  "gamma": 0.5,
+  "epoch": [200, 200, 200],
+  "topN": [50000]
+}
